@@ -1,0 +1,5 @@
+rootProject.name = 'orderManagement'
+
+gradle.ext{
+    lombokVersion = '1.18.16'
+}
